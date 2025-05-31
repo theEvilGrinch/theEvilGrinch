@@ -47,6 +47,7 @@ Hi, I'm Andrew Dmitriev, a software engineer with a passion for web development.
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 [![DLE](https://img.shields.io/badge/DLE-0078D7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xMiAxOEMxNi42NjQgMTggMjAgMTQuNjY0IDIwIDEwUzE2LjY2NCAyIDExIDJTMiAxMC4zMzYgMiAxNGMwIDMuNTMxIDIuODQ3IDYgNiA2em0tLjA3Ny01LjY1N2EuNzMuNzMgMCAwIDEtLjQ5LS4xMzYgMy4zIDEuMyAwIDAgMS0xLjQxMi0xLjI2MyAzLjc3IDMuNzcgMCAwIDEgMS41MTktMy4wNTJjLjc3Mi0uMTY2IDEuMjczLjAxMyAxLjU2My4zNDYgMS4zNjQgMS43MyAxLjI0OCAxLjY2MyAxLjI0OCAxLjY2M2ExLjMyIDEuMzIgMCAwIDEtLjIzOC40MjQgLjcgLjcgMCAwIDEtLjM1OC4xODIgMy41IDMuNSAwIDAgMS0xLjY0Ny42NDV6Ii8+PC9zdmc+&logoColor=white)](https://dle-news.ru/)
+![SEO](https://img.shields.io/badge/SEO-4B8BBE?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
