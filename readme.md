@@ -9,7 +9,6 @@ Hi, I'm Andrew, a software engineer with a passion for web development and ArchL
 _Web Development · Automation · DevOps · Content Creation · 3D Prototyping_
 - Built responsive websites, PWAs, and cross-platform desktop apps (Electron)
 - Developed CLI tools and automated workflows using Node.js and Bash/Zsh scripts
-<!-- - Deployed personal and freelance services with Docker -->
 - Created educational and technical content
 - Designed and printed 3D models for prototyping and repair use cases
 
