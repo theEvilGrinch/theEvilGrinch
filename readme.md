@@ -1,21 +1,25 @@
 <img src="./github-profile-logo.png" srcset="./github-profile-logo_2x.png 2x" alt="profile logo" width="1022" height="282"  style="width: 100%; height: auto;"/>
 
 # 💫 About Me:
-Hi, I'm Andrew Dmitriev, a software engineer with a passion for web development. I specialize in creating and maintaining websites, apps and content creation. I’m skilled in modern web technologies and follow best practices to ensure clean, maintainable code.
+Hi, I'm Andrew, a software engineer with a passion for web development and ArchLinux. I specialize in creating and maintaining websites, apps, technical and educational content. I’m skilled in modern web technologies and follow best practices to ensure clean, maintainable code.
 
-## Experience
-**Self-Employed/Freelance**:
-- Development and maintenance
-- Content creation
-- 3D modeling and printing
+## 🛠️ Experience
+**Freelance Developer & IT Specialist**
 
-**Previous Roles**:
-- Security Systems Engineer. Designed and deployed security solutions, created technical documentation.
-- Technical Support and Repair. PC and laptop maintenance, customer service.
+_Web Development · Automation · DevOps · Content Creation · 3D Prototyping_
+- Built responsive websites, PWAs, and cross-platform desktop apps (Electron)
+- Developed CLI tools and automated workflows using Node.js and Bash/Zsh scripts
+<!-- - Deployed personal and freelance services with Docker -->
+- Created educational and technical content
+- Designed and printed 3D models for prototyping and repair use cases
 
-## Education
+**Previous Roles**
+- Security Systems Engineer – Designed and deployed security solutions and access control systems; authored technical documentation
+- Technical Support Specialist – Diagnosed and repaired PC/laptop hardware and software issues; provided customer support and maintenance services
+
+## 🎓 Education
 - Polytechnic College, Novgorod State University - Telecommunication Networks and Switching Systems, 2008
-- Voronezh Radio Institute - Advanced Operational Management Course, 2014
+- Voronezh Radio Engineering Institute - Advanced Operational Management Course (focused on system operations, monitoring, and infrastructure control), 2014
 
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -72,6 +76,6 @@ Hi, I'm Andrew Dmitriev, a software engineer with a passion for web development.
 [![X](https://img.shields.io/badge/X-@_theEvilGrinch-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_theEvilGrinch)
 [![Email](https://img.shields.io/badge/Email-andrew.dmitriev.22@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrew.dmitriev.22@gmail.com)
 
-## Sponsors & Support
+## 🤝 Sponsors & Support
 [![Support me on Boosty](https://img.shields.io/badge/Boosty-Support%20me-%23f15f2c?style=for-the-badge)](https://boosty.to/theEvilGrinch/donate)
 [![Donate Card](https://img.shields.io/badge/Donate%20Card-%23702ff4?style=for-the-badge)](https://yoomoney.ru/to/410016288289737)
