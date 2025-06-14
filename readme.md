@@ -1,7 +1,7 @@
 <img src="./github-profile-logo.png" srcset="./github-profile-logo_2x.png 2x" alt="profile logo" width="1022" height="282"  style="width: 100%; height: auto;"/>
 
 # 💫 About Me:
-Hi, I'm Andrew, a software engineer with a passion for web development and ArchLinux. I specialize in creating and maintaining websites, apps, technical and educational content. I’m skilled in modern web technologies and follow best practices to ensure clean, maintainable code.
+Hi, I'm Andrew. Software Engineer focused on web development, CLI utilities, and automation. I build cross-platform applications with Electron , create custom build processes with Vite/esbuild , and write technical documentation. A dedicated ArchLinux user, currently learning Go for backend development.
 
 ## 🛠️ Experience
 **Freelance Developer & IT Specialist**
