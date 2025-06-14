@@ -16,10 +16,6 @@ _Web Development · Automation · DevOps · Content Creation · 3D Prototyping_
 - Security Systems Engineer – Designed and deployed security solutions and access control systems; authored technical documentation
 - Technical Support Specialist – Diagnosed and repaired PC/laptop hardware and software issues; provided customer support and maintenance services
 
-## 🎓 Education
-- Polytechnic College, Novgorod State University - Telecommunication Networks and Switching Systems, 2008
-- Voronezh Radio Engineering Institute - Advanced Operational Management Course (focused on system operations, monitoring, and infrastructure control), 2014
-
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
