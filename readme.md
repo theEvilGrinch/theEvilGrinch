@@ -69,7 +69,6 @@ _Web Development · Automation · DevOps · Content Creation · 3D Prototyping_
 ## 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-@theEvilGrinch-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/theEvilGrinch)
 [![X](https://img.shields.io/badge/X-@_theEvilGrinch-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_theEvilGrinch)
-[![Email](https://img.shields.io/badge/Email-andrew.dmitriev.22@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrew.dmitriev.22@gmail.com)
 
 ## 🤝 Sponsors & Support
 [![Support me on Boosty](https://img.shields.io/badge/Boosty-Support%20me-%23f15f2c?style=for-the-badge)](https://boosty.to/theEvilGrinch/donate)
