@@ -63,8 +63,9 @@ _Web Development · Automation · DevOps · Content Creation · 3D Prototyping_
 ![AI Tools](https://img.shields.io/badge/AI%20Tools-6F42C1?style=for-the-badge&logo=openai&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=theEvilGrinch&theme=nord&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=theEvilGrinch&theme=nord&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=theEvilGrinch&theme=nord&hide_border=false)
+
+[//]: # (![]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=theEvilGrinch&theme=nord&hide_border=false&include_all_commits=false&count_private=true&layout=compact&#41;)
 
 ## 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-@theEvilGrinch-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/theEvilGrinch)
