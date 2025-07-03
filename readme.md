@@ -1,22 +1,27 @@
 <img src="./logo-2.png" alt="profile logo" width="1022" height="282"  style="width: 100%; height: auto;"/>
 
 # 💫 About Me:
+
 Hi, I'm Andrew. Software Engineer focused on web development, CLI utilities, and automation. I build cross-platform applications with Electron , create custom build processes with Vite/esbuild , and write technical documentation. A dedicated ArchLinux user, currently learning Go for backend development.
 
 ## 🛠️ Experience
+
 **Freelance Developer & IT Specialist**
 
 _Web Development · Automation · DevOps · Content Creation · 3D Prototyping_
+
 - Built responsive websites, PWAs, and cross-platform desktop apps (Electron)
 - Developed CLI tools and automated workflows using Node.js and Bash/Zsh scripts
 - Created educational and technical content
 - Designed and printed 3D models for prototyping and repair use cases
 
 **Previous Roles**
+
 - Security Systems Engineer – Designed and deployed security solutions and access control systems; authored technical documentation
 - Technical Support Specialist – Diagnosed and repaired PC/laptop hardware and software issues; provided customer support and maintenance services
 
 ## 💻 Tech Stack:
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -24,6 +29,7 @@ _Web Development · Automation · DevOps · Content Creation · 3D Prototyping_
 ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 [![Stylelint](https://img.shields.io/badge/Stylelint-263238?style=for-the-badge&logo=stylelint&logoColor=white)](https://stylelint.io/)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
 ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
@@ -63,14 +69,17 @@ _Web Development · Automation · DevOps · Content Creation · 3D Prototyping_
 ![AI Tools](https://img.shields.io/badge/AI%20Tools-6F42C1?style=for-the-badge&logo=openai&logoColor=white)
 
 ## 📊 GitHub Stats:
+
 ![](https://nirzak-streak-stats.vercel.app/?user=theEvilGrinch&theme=nord&hide_border=false)
 
-[//]: # (![]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=theEvilGrinch&theme=nord&hide_border=false&include_all_commits=false&count_private=true&layout=compact&#41;)
+[//]: # "![](https://github-readme-stats.vercel.app/api/top-langs/?username=theEvilGrinch&theme=nord&hide_border=false&include_all_commits=false&count_private=true&layout=compact)"
 
 ## 🌐 Socials:
+
 [![Telegram](https://img.shields.io/badge/Telegram-@theEvilGrinch-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/theEvilGrinch)
 [![X](https://img.shields.io/badge/X-@_theEvilGrinch-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_theEvilGrinch)
 
 ## 🤝 Sponsors & Support
+
 [![Support me on Boosty](https://img.shields.io/badge/Boosty-Support%20me-%23f15f2c?style=for-the-badge)](https://boosty.to/theEvilGrinch/donate)
 [![Donate Card](https://img.shields.io/badge/Donate-Card-702ff4?style=for-the-badge&labelColor=555555)](https://yoomoney.ru/to/410016288289737)
