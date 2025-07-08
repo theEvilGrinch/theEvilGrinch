@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-Hi, I'm Andrew. Software Engineer focused on web development, CLI utilities, and automation. I build cross-platform applications with Electron , create custom build processes with Vite/esbuild , and write technical documentation. A dedicated ArchLinux user, currently learning Go for backend development.
+Hi, I'm Andrew. Software Engineer specializing in web development, cross-platform applications, CLI tools, and automation. Dedicated Arch Linux user. Currently learning Go for backend development.
 
 ## 🛠️ Experience
 
