@@ -73,7 +73,7 @@ _Web Development · Automation · DevOps · Content Creation · 3D Prototyping_
 
 ![](https://nirzak-streak-stats.vercel.app/?user=theEvilGrinch&theme=nord&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=theEvilGrinch&theme=nord&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=theEvilGrinch&theme=nord&hide_border=false&include_all_commits=false&count_private=true&layout=compact)-->
 
 ## 🌐 Socials:
 
