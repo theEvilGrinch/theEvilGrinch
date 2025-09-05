@@ -12,7 +12,7 @@ Software developer. Building CLI tools and services with Go and JavaScript/Node.
 _Web Development · Automation · DevOps · Content Creation · 3D Prototyping_
 
 - Built responsive websites, PWAs, and cross-platform desktop apps (Electron)
-- Developed CLI tools and automated workflows using Node.js and Bash/Zsh scripts
+- Developed CLI tools and automated workflows using Go, Node.js and Bash/Zsh scripts
 - Created educational and technical content
 - Designed and printed 3D models for prototyping and repair use cases
 
