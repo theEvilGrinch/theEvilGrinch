@@ -3,7 +3,7 @@
 # 💫 About Me:
 <!--Hi, I'm Andrew. Software Engineer specializing in web development, cross-platform applications, CLI tools, and automation. 
 Dedicated Arch Linux user. Currently learning Go for backend development.-->
-Software developer. Building CLI tools and services with Go and JavaScript/Node.js. Writing Bash/Zsh scripts for automation on Arch Linux.
+Software developer. Building CLI tools, web apps and services with Go and JavaScript/Node.js. Writing Bash/Zsh scripts for automation on Arch Linux.
 
 ## 🛠️ Experience
 
