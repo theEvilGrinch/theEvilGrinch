@@ -79,6 +79,7 @@ _Web Development · Automation · DevOps · Content Creation · 3D Prototyping_
 
 [![Telegram](https://img.shields.io/badge/Telegram-@theEvilGrinch-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/theEvilGrinch)
 [![X](https://img.shields.io/badge/X-@_theEvilGrinch-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_theEvilGrinch)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@theEvilGrinch-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theEvilGrinch/)
 
 ## 🤝 Sponsors & Support
 
