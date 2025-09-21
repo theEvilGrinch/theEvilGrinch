@@ -1,4 +1,4 @@
-<img src="./brand_logo.png" alt="profile logo"/>
+<img src="./brand_logo_short.png" alt="profile logo"/>
 
 # 💫 About Me:
 <!--Hi, I'm Andrew. Software Engineer specializing in web development, cross-platform applications, CLI tools, and automation. 
